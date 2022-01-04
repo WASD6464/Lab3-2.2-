@@ -2,7 +2,7 @@ import os, uuid, json, requests
 
 # Не забудьте заменить своим ключом значение subscription_key!
 
-subscription_key = "b3825972b6f24045bb7a74e9b6efa6f5"
+subscription_key = ""
 location = "northeurope"
 
 # Не забудьте заменить своим местоположением значение location!
